@@ -1,0 +1,25 @@
+{
+  "name": "-",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "beautify": "^0.0.8",
+    "font-awesome": "^4.7.0",
+    "sass": "^1.83.0",
+    "sass-loader": "^16.0.4",
+    "uuid": "^11.0.3",
+    "vue": "^3.5.13",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.5",
+    "vite-plugin-vue-devtools": "^7.6.8"
+  }
+}
